@@ -1,0 +1,1408 @@
+﻿فلم	PROPN
+سٹار	PROPN
+ممتاز	NOUN
+نے	ADP
+مینا	VERB
+کماری	NOUN
+کے	ADPT
+لیے	ADP
+ایک	NUM
+فلم	NOUN
+کی	ADPT
+لیکن	CCONJ
+مینا	NOUN
+کماری	ADJ
+خراب	VERB
+مالی	NOUN
+حالات	NOUN
+کے	ADPT
+باعث	NOUN
+ممتاز	NOUN
+کو	ADPT
+پیسے	NOUN
+نہ	NEG
+دے	VERB
+سکیں	VERB
+،	PUNCT
+انکے	PRON
+دل	NOUN
+پہ	ADP
+اس	PRON
+چیز	NOUN
+کا	ADPT
+بوجھ	NOUN
+تھا	AUX
+اس	PRON
+لیے	ADP
+مرنے	VERB
+سے	ADP
+پہلے	NUMO
+مینا	NOUN
+نے	ADP
+اپنا	PRON
+بنگلہ	PROPN
+ممتاز	PROPN
+کو	ADPT
+دیکر	NOUN
+قرض	NOUN
+چکتا	VERB
+کیا	AUX
+۔	PUNCT
+
+مینا	NOUN
+بہترین	ADJ
+اداکارہ	NOUN
+ہونے	VERB
+کے	ADPT
+ساتھ	ADP
+ساتھ	ADP
+کمال	NOUN
+کی	ADPT
+شاعرہ	NOUN
+بھی	PART
+تھیں	AUX
+باوجود	NOUN
+اسکے	VERB
+کہ	SCONJ
+وہ	PRON
+پڑھی	VERB
+لکھی	VERB
+نہ	NEG
+تھیں	AUX
+
+@nadeemmalik	PROPN
+قلم	NOUN
+فروشی	ADJ
+جسم	NOUN
+فروشی	NOUN
+سے	ADP
+زیادہ	DET
+ذلالت	NOUN
+والا	PART
+کام	NOUN
+ہے	AUX
+حسن	PROPN
+علی	PROPN
+کی	ADPT
+شادی	NOUN
+کے	ADPT
+چرچے	ADJ
+میڈیا	NOUN
+پر	ADP
+صبح	NOUN
+شام	NOUN
+چل	VERB
+رہے	AUX
+ہیں	AUX
+کوئی	PROND
+انڈین	ADJ
+اداکارہ	NOUN
+مرتی	VERB
+ہو	AUX
+تو	SCONJ
+تین	NOUN
+دن	NOUN
+اسی	ADJ
+کی	ADPT
+خبریں	ADJ
+میڈیا	NOUN
+کی	ADPT
+زینت	NOUN
+بنی	VERB،
+رہتی	AUX
+ہیں	AUX
+حالانکہ	NOUN
+کسی	PRON
+پاکستانی	ADJ
+سیاستدان	NOUN
+کا	ADPT
+کتا	NOUN
+بھی	PART
+مر	VERB
+جائے	VERB
+تو	SCONJ
+ہیڈ	NOUN
+لائن	NOUN
+ہوتی	VERB
+ہے	AUX
+کشمیری	ADJ
+کیوں	ADV
+نظر	NOUN
+نہیں	NEG
+آ	VERB
+رہے	AUX
+انکو	PROND
+
+@MaryamNSharif	PROPN
+سیاسی	ADJ
+اداکارہ	NOUN
+مریم	PROPN
+شریف	PROPN
+اپنے	PRON
+باپ	NOUN
+کی	ADPT
+سیاسی	ADJ
+قبر	NOUN
+میں	ADPT
+آخری	ADJ
+کیل	NOUN
+ٹھوک	VERB
+رہی	AUX
+ہے	AUX
+-	PUNCT
+
+@MaryamNSharif	PROPN
+فلم	PROPN
+ٹھگز	PROPN
+آف	PROPN
+رائیونڈ	PROPN
+کی	ADPT
+مرکزی	ADJ
+اداکارہ	NOUN
+کا	ADPT
+کہنا	VERB
+ہے	AUX
+کہ	SCONJ
+نیب	PROPN
+کے	ADPT
+پاس	ADV
+ہمارے	PRON
+خلاف	ADP
+کوئی	PROND
+ثبوت	NOUN
+نہیں	NEG
+ہے	AUX
+...	SYM
+بی	PROPN
+بی	PROPN
+جی	PROPN
+آپ	PRON
+سے	ADPT
+ایک	NUM
+معصوم	NOUN
+سوال	NOUN
+؟	PUNCT
+پھر	ADV
+بڑے	ADJ
+میاں	NOUN
+جیل	NOUN
+میں	ADPT
+کیا	VERB
+کر	VERB
+رہے	AUX
+ہیں	AUX
+؟	PUNCT
+
+https://t.co/lRxWaKjWLE	LINK
+
+@MaryamNSharif	PROPN
+بی	PROPN
+بی	PROPN
+جی	PROPN
+آپکو	NOUN
+بڑا	ADJ
+دکھ	NOUN
+ہے	AUX
+غریب	ADJ
+کا	ADPT
+۔	PUNCT
+تو	SCONJ
+جو	PRON
+قومی	ADJ
+خزانہ	NOUN
+خالی	VERB
+کیا	AUX
+ہے	AUX
+غریب	ADJ
+کے	ADPT
+پیسوں	NOUN
+سے	ADP
+اکاؤنٹ	NOUN
+بھرے	VERB
+ہیں	AUX
+تو	SCONJ
+واپس	ADJ
+کیوں	ADV
+نہیں	NEG
+کر	VERB
+دیتی	VERB
+۔	PUNCT
+
+سابق	NOUN
+کرکٹر	NOUN
+عبدالقادر	NOUN
+کے	ADPT
+صاحبزادے	NOUN
+نے	ADP
+معروف	NOUN
+اسٹیج	NOUN
+اداکارہ	NOUN
+ثوبیہ	PROPN
+خان	PROPN
+سے	ADPT
+شادی	NOUN
+کرلی	VERB
+
+@ARYSabirshakir_	PROPN
+ایک	NUM
+اداکارہ	NOUN
+میرا	PRON
+ہیں	AUX
+جو	PRON
+غلط	ADJ
+انگلش	NOUN
+بول	PROPN
+کر	VERB
+اپنا	PRON
+مزاق	NOUN
+بنواتی	VERB
+ہیں	AUX
+اور	CCONJ
+ایک	NUM
+یہ	PRON
+مریم	PROPN
+صاحبہ	NOUN
+ہیں	AUX
+جو	PRON
+جھوٹی	ADJ
+ٹویٹس	NOUN
+کرکے	VERB
+اپنا	PRON
+مزاق	NOUN
+بنواتی	VERB
+ہیں	AUX
+دونوں	NOUN
+میں	ADPT
+کافی	DET
+مماثلت	NOUN
+ہے	AUX
+
+سابق	NOUN
+ٹیسٹ	NOUN
+کرکٹر	NOUN
+عبدالقادر	NOUN
+کے	ADPT
+صاحبزادے	NOUN
+عثمان	PROPN
+قادر	PROPN
+نے	ADP
+اداکارہ	PROPN
+ثوبیہ	PROPN
+خان	PROPN
+سے	ADPT
+شادی	NOUN
+کرلی	VERB
+۔۔	SYM
+25	NUM
+سالہ	NOUN
+عثمان	PROPN
+قادر	PROPN
+بھی	PART
+کرکٹر	NOUN
+ہیں	AUX
+
+نکاح	NOUN
+سب	PRON
+سے	ADP
+خوبصورت	ADJ
+عمل	NOUN
+ہے	AUX
+ـ	PUNCT
+اللہ	PROPN
+تعالیٰ	PROPN
+دونوں	NOUN
+کو	ADPT
+ایمان	NOUN
+کی	ADPT
+دولت	NOUN
+سے	ADP
+مالا	VERB
+مال	NOUN
+کرے	VERB
+آمین	INTJ
+
+@w__shami	PROPN
+اور	CCONJ
+آجکل	NOUN
+سب	PRON
+سے	ADP
+زیادہ	NUMQ
+یہ	PRON
+ڈرامہ	NOUN
+میڈیا	NOUN
+والے	ADP
+کر	VERB
+رہے	AUX
+ہیں	AUX
+اور	CCONJ
+ویڈیو	NOUN
+سوشل	PROPN
+میڈیا	PROPN
+پر	ADPT
+وائرل	NOUN
+کرتے	VERB
+ہیں	AUX
+اور	CCONJ
+ہماری	PRON
+پاگل	NOUN
+عوام	NOUN
+اسے	PRON
+اتنا	ADJ
+شئیر	NOUN
+کرتے	VERB
+ہیں	AUX
+کہ	SCONJ
+گلی	NOUN
+محلے	NOUN
+کا	ADPT
+بچہ	NOUN
+بھی	PART
+اس	PRON
+اداکار	NOUN
+اور	CCONJ
+اداکارہ	NOUN
+کو	ADPT
+پہچان	NOUN
+جاتا	VERB
+ہے	AUX
+
+بالی	PROPN
+وڈ	PROPN
+اداکارہ	NOUN
+نے	ADP
+2019	NOUN
+کی	ADPT
+بااثر	NOUN
+بھارتی	ADJ
+شخصیات	NOUN
+کی	ADPT
+فہرست	NOUN
+میں	ADPT
+سب	PRON
+کو	ADPT
+پیچھے	ADP
+چھوڑ	VERB
+دیا	AUX
+۔	PUNCT
+
+#Bollywood	HASH
+#DeepikaPadukone	HASH
+#Deepika	HASH
+#UrduVOA	HASH
+
+@HamidMirPAK	PROPN
+
+حامد	PROPN
+میر	NOUN
+اور	CCONJ
+اداکارہ	NOUN
+میرا	PRON
+میں	ADPT
+کوئی	PROND
+فرق	NOUN
+نہیں	NEG
+.	PUNCT
+دونوں	NOUN
+ہی	PART
+ریٹنگ	NOUN
+کیلئے	ADP
+کچھ	NUMQ
+بھی	PART
+کرنے	VERB
+کو	ADPT
+تیار	NOUN
+ہو	VERB
+جائیں	AUX
+گے	AUX
+.	PUNCT
+مگر	SCONJ
+کوئی	PROND
+بھی	PART
+شریف	PROPN
+آدمی	PROPN
+ایسے	DET
+لوگوں	NOUN
+سے	ADP
+اپنے	PRON
+آپ	PRON
+کو	ADPT
+دور	NOUN
+رکھنے	VERB
+کو	ADPT
+ہی	PART
+توجیع	NOUN
+دے	VERB
+گا.	NOUN
+
+#UnFollowHamidMir	HASH
+#yellowjournalism"	HASH
+
+@FayyazShots	PROPN
+ماہرہ	PROPN
+خان	PROPN
+کو	ADPT
+اچھی	ADJ
+اداکارہ	NOUN
+کہہ	VERB
+کیسے	VERB
+سکتا	AUX
+کوئی	PROND
+؟	PUNCT
+😑	INTJE
+
+@sochmedia	PROPN
+ماہرہ	PROPN
+خان	PROPN
+ایک	NUM
+نیچرل	ADJ
+بیوٹی	NOUN
+ہیں	AUX
+۔	PUNCT
+ان	PRON
+کی	ADPT
+شخصیت	NOUN
+بھر	PART
+پور	NOUN
+صنف	PROPN
+نازک	PROPN
+کی	ADPT
+عکاسی	NOUN
+کرتی	VERB
+ہے	AUX
+۔	PUNCT
+ایک	NUM
+خوبصورت	ADJ
+چہرہ،	VERB
+معصومیت	NOUN
+اور	CCONJ
+دلکشی	NOUN
+ان	PRON
+کی	ADPT
+پہچان	NOUN
+ہے	AUX
+۔	PUNCT
+ہر	DET
+پاکستانی	ADJ
+ان	PRON
+سے	ADP
+بے	PART
+پناہ	NOUN
+محبت	NOUN
+رکھتے	VERB
+ہیں	AUX
+۔	PUNCT
+ماہرہ	PROPN
+خان	PROPN
+کسی	PRON
+اداکارہ	NOUN
+سے	ADP
+کم	ADJ
+نہیں	NEG
+۔	PUNCT
+
+پچھلے	NOUN
+سال	NOUN
+کا	ADPT
+نشانِ	NOUN
+امتیاز	NOUN
+ایک	NUM
+فوجی	NOUN
+کی	ADPT
+بہادری	NOUN
+کر	VERB
+چھوڑ	VERB
+کر	AUX
+جب	PRON
+اداکارہ	NOUN
+کو	ADPT
+دیا	VERB
+گیا	AUX
+تھا	AUX
+تو	SCONJ
+تنقید	NOUN
+کرنے	VERB
+والے	PART
+کس	PRON
+نشے	NOUN
+میں	ADPT
+تھے	AUX
+؟	PUNCT
+آپ	PRON
+لوگوں	NOUN
+کی	ADPT
+یادداشت	NOUN
+اتنی	ADJ
+کمزور	NOUN
+کیوں	ADV
+ہے	AUX
+
+بھارتی	ADJ
+ٹیم	NOUN
+کے	ADPT
+سینئر	ADJ
+کھلاڑیوں	NOUN
+روہت	NOUN
+شرما	NOUN
+اور	CCONJ
+ویرات	NOUN
+کوہلی	NOUN
+کے	ADPT
+درمیان	NOUN
+اختلافات	NOUN
+شدت	NOUN
+اختیار	NOUN
+کر	VERB
+گئے	AUX
+
+@syedaFatimahuda	PROPN
+اللہ	PROPN
+کرے	VERB
+اصلی	ADJ
+ماں	NOUN
+ہو	VERB
+،	PUNCT
+داعش	NOUN
+کی	ADPT
+اداکارہ	NOUN
+نہ	NEG
+ہو	VERB
+۔	PUNCT
+داعش	NOUN
+والوں	PART
+نے	ADP
+مقتولین	NOUN
+کی	ADPT
+لاشوں	NOUN
+سے	ADP
+پروپیگنڈے	VERB
+کیلئے	AUX
+فائدہ	NOUN
+بھی	PART
+اٹھایا	VERB
+ہے	AUX
+۔	PUNCT
+
+فردوس	PROPN
+جمال	PROPN
+نے	ADPT
+ایک	NUM
+نیا	ADJ
+کٹا	NOUN
+کھول	VERB
+دیا	VERB
+ہے	AUX
+کہ	SCONJ
+کون	DET
+زیادہ	DET
+اچھی	ADJ
+اداکارہ	NOUN
+ہے	AUX
+
+خیر	PROPN
+سے	ADP
+میں	ADPT
+پاکستانی	ADJ
+ڈرامے	NOUN
+تو	PART
+دیکھتا	VERB
+ہی	PART
+نہی	NEG
+
+لیکن	CCONJ
+اگر	SCONJ
+اداکاری	NOUN
+کا	ADPT
+مقابلہ	NOUN
+کروانا	VERB
+ہو	VERB
+تو	SCONJ
+نفیسہ	NOUN
+شاہ	NOUN
+،	PUNCT
+ناز	NOUN
+بلوچ	NOUN
+،	PUNCT
+شہلا	PROPN
+رضا	PROPN
+،	PUNCT
+مریم	PROPN
+اورنگزیب	PROPN
+،	PUNCT
+عظمیٰ	PROPN
+بخاری	PROPN
+کے	ADPT
+درمیان	NOUN
+کرواؤ	VERB
+
+ایک	NUM
+سے	ADP
+بڑھ	VERB
+کر	AUX
+ایک	NUM
+اداکارئیں	NOUN
+ہیں	AUX
+
+فردوس	PROPN
+جمال	PROPN
+پاکستان	PROPN
+کا	ADPT
+اک	NOUN
+بڑا	ADJ
+نام	NOUN
+ہے	AUX
+انھوں	NOUN
+نے	ADP
+اپنے	PRON
+تجربے	NOUN
+کی	ADPT
+بنیاد	NOUN
+پر	ADP
+رائے	NOUN
+دی	VERB
+ہے	AUX
+انکی	PRON
+رائے	NOUN
+سے	ADP
+متفق	NOUN
+ہونا	VERB
+نا	NEG
+ہونا	VERB
+لوگوں	NOUN
+کااپنا	VERB
+حق	NOUN
+ہے	AUX
+مگر	SCONJ
+ہم	PRON
+انکی	ADJ
+رائے	NOUN
+کو	ADPT
+نظرانداز	NOUN
+نہی	NEG
+کرسکتے	VERB
+،	PUNCT
+یہ	PRON
+نظر	NOUN
+بھی	PART
+آتا	VERB
+ہے	AUX
+مائرہ	PROPN
+خان	PROPN
+کو	ADPT
+جتنی	ADJ
+پزیرائی	NOUN
+ملی	VERB
+ہے	AUX
+انکے	PRON
+کریڈت	NOUN
+پر	ADP
+اتنا	ADJ
+کام	NOUN
+نہی	NEG
+،	PUNCT
+صبا	PROPN
+قمر	PROPN
+بہترین	ADJ
+اداکارہ	NOUN
+ہے	AUX
+
+#FirdousJamal	HASH
+
+اداکارہ	PROPN
+ماہرہ	PROPN
+خان	PROPN
+پر	ADP
+سینئر	ADJ
+اداکار	NOUN
+فردوس	PROPN
+جمال	PROPN
+کی	ADPT
+رائے	NOUN
+نے	ADP
+سوشل	PROPN
+میڈیا	PROPN
+پر	ADPT
+آگ	VERB
+لگادی	VERB
+ہے	AUX
+۔	PUNCT
+
+یہ	PRON
+کہانی	NOUN
+ایسی	PRON
+ہے	AUX
+جس	PRON
+میں	ADPT
+آسانی	NOUN
+سے	ADP
+تیل	PROPN
+چِھڑکا	VERB
+کر	AUX
+اور	CCONJ
+بھڑکایا	VERB
+جاسکتا	VERB
+ہے	AUX
+اور	CCONJ
+مزے	NOUN
+لے	VERB
+لے	VERB
+کر	AUX
+فردوس	PROPN
+جمال	PROPN
+یا	CCONJ
+ماہرہ	PROPN
+خان	PROPN
+کا	ADPT
+مذاق	NOUN
+اڑایا	VERB
+جاسکتا	VERB
+ہے	AUX
+۔	PUNCT
+
+#MahiraKhan	HASH
+#FirdousJamal	HASH
+Mahira	HASH
+#lollywood	HASH
+https://t.co/tD9UpW5AtD	LINK
+
+@thealiwarsi	PROPN
+اداکاراؤں	NOUN
+کا	ADPT
+فلمی	NOUN
+کیرئیر	NOUN
+گزشتہ	NOUN
+ایک	NUM
+دہائی	NOUN
+کے	ADPT
+دوران	NOUN
+بڑھ	VERB
+گیا	AUX
+ہے	AUX
+۔	PUNCT
+اس	PRON
+میں	ADPT
+اب	PRON
+شادی	NOUN
+اور	CCONJ
+بچوں	NOUN
+والا	PART
+ٹیبو	NOUN
+بھی	PART
+کافی	DET
+حد	NOUN
+تک	ADP
+ختم	VERB
+ہوا	VERB
+ہے	AUX
+۔	PUNCT
+اور	CCONJ
+اس	PRON
+حؤالے	NOUN
+سے	ADP
+جس	PRON
+بھی	PART
+اداکارہ	NOUN
+نے	ADP
+اپنا	PRON
+حصہ	NOUN
+ڈالا	VERB
+مجھے	PRON
+وہ	PRON
+سب	PRON
+ہی	PART
+عزیز	PROPN
+ہیں	AUX
+۔	PUNCT
+
+غیر	NOUN
+ملکیوں	NOUN
+کے	ADPT
+لیے	ADP
+بھارت	NOUN
+میں	ADPT
+زندگی	NOUN
+گزارنا	VERB
+بہت	ADJ
+مشکل	ADJ
+ہے	AUX
+،	PUNCT
+اداکارہ	NOUN
+نورا	VERB
+فتیحی	NOUN
+
+یہ	PRON
+میری	PRON
+ذاتی	ADJ
+رائے	NOUN
+ہے	AUX
+کہ	SCONJ
+ہمارے	PRON
+ملک	NOUN
+پاکستان	PROPN
+میں	ADPT
+سفارشی	NOUN
+لوگ	NOUN
+بہت	ADJ
+آگے	VERB
+نکل	VERB
+گئے	AUX
+ہیں	AUX
+اور	CCONJ
+ٹیلنٹ	NOUN
+پیچھے	ADP
+رہ	VERB
+گیا	AUX
+ہے۔	NOUN
+ٹھیک	VERB
+ہے	AUX
+،	PUNCT
+ہم	PRON
+مانتے	VERB
+ہیں	AUX
+کہ	SCONJ
+ماہرو	PROPN
+خان	PROPN
+ایک	NUM
+اچھی	ADJ
+اداکارہ	NOUN
+ہیں	AUX
+مگر	CCONJ
+یہ	PRON
+ضروری	ADJ
+نہیں	NEG
+کہ	SCONJ
+وہ	PRON
+اسی	ADJ
+وقت	NOUN
+اچھی	ADJ
+لگیں	VERB
+گی	AUX
+جب	PRON
+وہ	PRON
+بیس	NOUN
+بائیس	NOUN
+سال	NOUN
+کی	ADPT
+لڑکیوں	NOUN
+کا	ADPT
+رول	NOUN
+پلے	VERB
+کریں	AUX
+۔	PUNCT
+
+#MahiraKhan	HASH
+
+#FirdousJamal	HASH
+
+اولاد	PROPN
+کو	ADP
+صرف	PART
+اچھی	ADJ
+ماں	NOUN
+چاہیے	ADV
+ہوتی	VERB
+ہے	AUX
+۔	PUNCT
+
+ان	PRON
+کو	ADPT
+اس	PRON
+بات	NOUN
+سے	ADP
+کوئی	PROND
+غرض	NOUN
+نہیں	NEG
+ہوتی	VERB
+کہ	SCONJ
+وہ	PRON
+کتنی	NOUN
+اچھی	ADJ
+مصورہ	NOUN
+،	PUNCT
+کتنی	NOUN
+مصنفہ	NOUN
+،	PUNCT
+یا	CCONJ
+کتنی	NOUN
+اچھی	ADJ
+اداکارہ	NOUN
+ہے	AUX
+اور	CCONJ
+دنیا	NOUN
+نے	ADP
+اس	PRON
+کو	ADPT
+کہاں	PRON
+بیٹھایا	VERB
+ہوا	VERB
+ہے	AUX
+۔	PUNCT
+
+#کامیابی_کا_سفر	HASH
+
+#فروغ_محبت	HASH
+
+@Beautiful_0065	PROPN
+مولانا	PROPN
+طارق	PROPN
+جمیل	PROPN
+کی	ADPT
+فلاسفی	ADJ
+تبلیغ	NOUN
+ہے	AUX
+اور	CCONJ
+وہ	PRON
+ترغیب	NOUN
+اور	CCONJ
+پیار	NOUN
+کو	ADPT
+استعمال	NOUN
+کرتے	VERB
+۔	PUNCT
+وہ	PRON
+ہر	DET
+ایک	NUM
+کو	ADPT
+ایسے	DET
+ہی	PART
+ویلکم	NOUN
+کرتے	VERB
+چاہے	ADJ
+وہ	PRON
+نواز	PROPN
+شریف	PROPN
+ہو	VERB
+یا	CCONJ
+عمران	PROPN
+خان	PROPN
+ہو	VERB
+۔	PUNCT
+چاہے	ADV
+وہ	PRON
+اداکارہ	NOUN
+ہو	VERB
+چاہے	ADJ
+صفائ	NOUN
+والا	PART
+ہو	VERB
+۔	PUNCT
+
+پاکستان	PROPN
+میں	PROPN
+حسن	PROPN
+کی	ADPT
+ملکہ	NOUN
+کہلائی	VERB
+جانے	AUX
+والی	NOUN
+ماہ	NOUN
+نور	NOUN
+بلوچ	NOUN
+کا	ADPT
+خوبصورتی	NOUN
+میں	ADPT
+کوئی	PROND
+ثانی	NOUN
+نہیں	NEG
+،	PUNCT
+تاہم	NOUN
+دو	VERB
+سال	NOUN
+سے	ADP
+پردہ	NOUN
+سے	ADPT
+غائب	ADJ
+رہنے	VERB
+کے	ADPT
+بعد	ADP
+ایک	NUM
+بار	NOUN
+پھر	ADV
+اداکارہ	NOUN
+نے	ADP
+چھوٹی	ADJ
+اسکرین	NOUN
+پر	ADP
+آنے	VERB
+کا	ADPT
+فیصلہ	NOUN
+کیا	VERB
+ہے	AUX
+۔	PUNCT
+
+ملک	NOUN
+کی	ADPT
+معروف	NOUN
+اداکارہ	NOUN
+مہوش	PROPN
+حیات	PROPN
+کراچی	PROPN
+میں	ADPT
+جاری	ADJ
+قومی	ADJ
+ہاکی	NOUN
+چیمپیئن	NOUN
+شپ	VERB
+کے	ADPT
+میچز	NOUN
+دیکھنے	VERB
+عبدالستار	NOUN
+ہاکی	ADJ
+سٹیڈیم	NOUN
+پہنچ	VERB
+گئیں	AUX
+،	PUNCT
+موجودہ	NOUN
+اور	CCONJ
+سابق	NOUN
+کھلاڑیوں	NOUN
+سے	ADP
+ملاقات	NOUN
+کے	ADPT
+بعد	ADP
+ہاکی	ADJ
+تھام	NOUN
+کر	VERB
+میدان	NOUN
+میں	ADPT
+بھی	PART
+آگئیں	NOUN
+،	PUNCT
+ہاکی	NOUN
+پر	ADPT
+خصوصی	NOUN
+توجہ	NOUN
+دینے	VERB
+کا	ADPT
+مطالبہ	NOUN
+بھی	PART
+کردیا	VERB
+۔	PUNCT
+
+#News	HASH
+#BreakingNews	HASH
+#NewsUpdates	HASH
+#BoltiNews"	HASH
+
+داکارہ	NOUN
+عالیہ	NOUN
+بھٹ	VERB
+کیا	AUX
+واقعی	ADJ
+رنبیر	NOUN
+کپور	NOUN
+سے	ADP
+شادی	NOUN
+کرنے	VERB
+جارہی	VERB
+ہیں	AUX
+؟	PUNCT
+
+اداکارہ	PROPN
+ہانیہ	PROPN
+عامر	PROPN
+بھی	PART
+محسن	PROPN
+عباس	PROPN
+کے	ADPT
+خلاف	ADP
+بول	PROPN
+پڑیں	VERB
+ایسی	PRON
+شہرت	NOUN
+کا	ADPT
+کیا	ADV
+فائدہ	NOUN
+جس	PRON
+میں	ADPT
+آپ	PRON
+عورت	NOUN
+کی	ADPT
+عزت	NOUN
+نہ	NEG
+کرسکیں	VERB
+اور	CCONJ
+وہ	PRON
+بھی	PART
+اس	PRON
+عورت	NOUN
+کی	ADPT
+عزت	NOUN
+جو	PRON
+آپ	PRON
+کے	ADPT
+بیٹے	NOUN
+کی	ADPT
+ماں	NOUN
+ہو	VERB
+.	PUNCT
+
+اداکارہ	PROPN
+ماہرہ	PROPN
+خان	PROPN
+کے	ADPT
+مداح	NOUN
+اُن	NOUN
+کے	ADPT
+ہر	DET
+گانے	NOUN
+کے	ADPT
+منتظر	NOUN
+ہوتے	VERB
+ہیں	AUX
+مگر	SCONJ
+اس	PRON
+بار	NOUN
+فلم	NOUN
+’	PUNCT
+مورے	NOUN
+سیاں	NOUN
+‘	PUNCT
+کے	ADPT
+گانے	NOUN
+میں	ADPT
+اداکارہ	NOUN
+کے	ADPT
+روپ	NOUN
+نے	ADP
+بالی	PROPN
+وڈ	PROPN
+کی	ADPT
+دھک	NOUN
+دھک	NOUN
+گرل	NOUN
+مادھوری	NOUN
+ڈکشت	NOUN
+کا	ADPT
+فلم	NOUN
+دیو	VERB
+داس	NOUN
+میں	ADPT
+اپنایا	VERB
+ہوا	VERB
+مقبول	NOUN
+انداز	NOUN
+یاد	NOUN
+دلا	VERB
+دیا	VERB
+ہے	AUX
+۔	PUNCT
+
+@AbbassFr	PROPN
+@MaryamNSharif	PROPN
+باجی	NOUN
+کو	ADPT
+اداکارہ	NOUN
+میرا	PRON
+سے	ADP
+ملاؤ	NOUN
+😂	INTJE
+وہی	NOUN
+سمجھ	VERB
+سکیں	VERB
+گی	AUX
+ان	PRON
+کا	ADPT
+مسئلہ	NOUN
+کیا	VERB
+ہے	AUX
+😂	INTJE
+
+پتہ	NOUN
+نہیں	NEG
+کس	PRON
+آلو	NOUN
+کے	ADPT
+پراٹھے	NOUN
+نے	ADP
+یہ	PRON
+ویڈیو	NOUN
+بنائی	VERB
+ہے	AUX
+جسے	NOUN
+یہ	PRON
+بھی	PART
+نہیں	NEG
+پتہ	NOUN
+کہ	SCONJ
+اداکارہ	NOUN
+کو	ADPT
+بتا	VERB
+دے	AUX
+کہ	SCONJ
+وائرلیس	NOUN
+کس	PRON
+سمت	NOUN
+میں	ADPT
+رکھنا	VERB
+ہے	AUX
+۔	PUNCT
+
+تنقید	NOUN
+کی	ADPT
+وجہ	NOUN
+سے	ADP
+اپنے	PRON
+ٹیلنٹ	NOUN
+کو	ADPT
+ضائع	NOUN
+نہیں	NEG
+کر	VERB
+سکتی	AUX
+:	PUNCT
+اداکارہ	NOUN
+زارا	VERB
+نور	NOUN
+
+امریکی	ADJ
+اداکارہ	NOUN
+و	CCONJ
+گلوکارہ	NOUN
+جنیفر	PROPN
+لوپز	PROPN
+کی	ADPT
+آج	NOUN
+50	NUM
+ویں	NOUN
+سالگرہ	NOUN
+ہے	AUX
+۔	PUNCT
+
+@ShamaJunejo	PROPN
+@Furrukh_yawar	PROPN
+محترمہ	PROPN
+آپ	PRON
+ڈراموں	NOUN
+میں	ADPT
+کام	NOUN
+کر	VERB
+لیتی	VERB
+تھیں	AUX
+وہ	PRON
+بھی	PART
+کسی	PRON
+کی	ADPT
+شفارش	NOUN
+سے	ADP
+کیوںکہ	SCONJ
+آپ	PRON
+تھرڈ	NUM
+کلاس	NOUN
+سے	ADP
+بھی	PART
+گھٹیا	NOUN
+اداکارہ	NOUN
+تھیں	AUX
+۔	PUNCT
+مگر	SCONJ
+تبصرہ	NOUN
+آپ	PRON
+ففتھ	ADJ
+کلاس	NOUN
+سے	ADP
+بھی	PART
+نیچے	NOUN
+کا	ADPT
+کرتی	VERB
+ہیں	AUX
+پرانی	ADJ
+ویڈیو	NOUN
+پھیلا	VERB
+کر	AUX
+
+پروین	PROPN
+بابی	PROPN
+بالی	PROPN
+وڈ	PROPN
+کی	ADPT
+اپنے	PRON
+وقت	NOUN
+کی	ADPT
+بہت	ADJ
+خوبصورت	ADJ
+اداکارہ	VERB
+تھی	AUX
+شیزوفرینیا	NOUN
+کے	ADPT
+مرض	NOUN
+میں	ADPT
+مبتلا	VERB
+ہوگئی	VERB
+پہلے	NUMO
+کیریر	NOUN
+گیا	VERB
+پھر	ADV
+صحت	NOUN
+اور	CCONJ
+پھرزندگی	NOUN
+
+بہت	ADJ
+برا	ADJ
+مرض	NOUN
+ہے	AUX
+اللہ	PROPN
+سب	PRON
+کو	ADPT
+اپنی	PRON
+امان	NOUN
+میں	ADPT
+رکھے	AUX
+https://t.co/h4MIQ79C04"	LINK
+
+اداکارہ	NOUN
+مہوش	PROPN
+حیات	PROPN
+کو	ADPT
+صدارتی	ADJ
+ایوارڈ	PROPN
+دینے	VERB
+کا	ADPT
+فیصلہ	NOUN
+کس	PRON
+کا	ADPT
+تھا	AUX
+؟	PUNCT
+پی	PROPN
+ٹی	PROPN
+آئی	PROPN
+حکومت	NOUN
+کے	ADPT
+وزیر	NOUN
+فواد	NOUN
+چوہدری	NOUN
+نے	ADP
+اعتراف	VERB
+کرلیا	VERB
+ہے	AUX
+کہ	SCONJ
+اداکارہ	NOUN
+مہوش	PROPN
+حیات	PROPN
+کو	ADPT
+ایوارڈ	PROPN
+دینے	VERB
+کا	ADPT
+فیصلہ	NOUN
+ان	PRON
+کا	ADPT
+اپنا	PRON
+ذاتی	ADJ
+فیصلہ	NOUN
+تھا.	VERB
+
+ماہرہ	PROPN
+خان	PROPN
+بالی	PROPN
+ووڈ	PROPN
+اداکارہ	NOUN
+مادھوری	ADJ
+ڈکشٹ	NOUN
+کو	ADPT
+بہت	ADJ
+زیادہ	ADJ
+پسند	NOUN
+کرتی	VERB
+ہیں	AUX
+
+https://t.co/rEJIpcaYfq	LINK
+https://t.co/jkIip28X6P	LINK
+
